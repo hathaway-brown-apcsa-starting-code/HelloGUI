@@ -1,12 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+This project contains the three GUI "Hello" programs from
+Litvin & Litvin Java Methods Chapter 2.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Best way to use them: Download the .zip file and unzip to a location that you know how to find.
